@@ -19,11 +19,41 @@ Scrapy中文文档翻译计划
 
   * intro下边四篇文章
   * index.rst
+  * faq.rst
+  * topics/api.rst
   * topics/commands.rst
   * topics/items.rst
   * topics/spiders.rst
   * topics/selectors.rst
   * topics/shell.rst
+  * topics/images.rst
+  * topics/link-extractors.rst
+  * topics/logging.rst
+  * topics/feed-exporters.rst
+  * topics/stats.rst
+  * topics/email.rst
+  * topics/telnetconsole.rst
+  * topics/webservice.rst
+  * topics/debug.rst
+  * topics/contracts.rst
+  * topics/practices.rst
+  * topics/broad-crawls.rst
+  * topics/firefox.rst
+  * topics/firebug.rst
+  * topics/leaks.rst
+  * topics/autothrottle.rst
+  * topics/scrapyd.rst
+  * topics/ubuntu.rst
+  * topics/benchmark.rst
+  * topics/djangoitem.rst
+  * topics/architecture.rst
+  * topics/download-middleware.rst
+  * topics/spider-middleware.rst
+  * topics/signals.rst
+  * topics/exceptions.rst
+  * topics/extensions.rst
+  * topics/settings.rst
+  * topics/item-pipeline.rst
 
 
 加入我们吧
@@ -51,7 +81,7 @@ Scrapy的文档写得很详细，与之带来的就是文档量很大。
 大致浏览一下结果。然后提交pull request。
 
 
-I/We need U
+We need U
 ^^^^^^^^^^^^^^^^^^^^
 
 
